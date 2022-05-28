@@ -1,0 +1,23 @@
+.jumbotron{
+    margin: 50px 213px;
+    /* padding: 2px; */
+    border: 5px solid rgb(37, 51, 252);
+    border-radius: 5%;
+}
+
+.page-footer{
+    margin: 2px 10px;
+    /* border: 5px solid black;
+    border-radius: 2%; */
+}
+
+body{
+    background-image: url('iron.jpg');
+  height: 100vh;
+}
+
+h3 {
+    font-size: 1.75rem;
+    text-align: center;
+    color: white;
+}
